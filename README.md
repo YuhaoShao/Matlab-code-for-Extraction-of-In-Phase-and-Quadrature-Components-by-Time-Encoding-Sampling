@@ -1,5 +1,5 @@
 # Matlab-code-for-Extraction-of-In-Phase-and-Quadrature-Components-by-Time-Encoding-Sampling
-The repository contains key MATLAB codes for reproducing the figures from the paper " Extraction of In-Phase and Quadrature Components by Time-Encoding Sampling," authored by Y. H. Shao, S. Y. Chen, H. Z. Yang, F. Xi, H. Hong and Z. Liu. The paper can be accessed online at ***********预印版的网址*************
+The repository contains key MATLAB codes for reproducing the figures from the paper " Extraction of In-Phase and Quadrature Components by Time-Encoding Sampling," authored by Y. H. Shao, S. Y. Chen, H. Z. Yang, F. Xi, H. Hong and Z. Liu. The paper can be accessed online at https://arxiv.org/abs/2405.16889
 ## 1.	Notes for codes
 ###   1.1 Sampling and Reconstruction Codes
 BL-TEM.m：for the sampling and reconstruction of the bandlimited signals by the bandlimited-TEM and the bandlimited-POCS method.
